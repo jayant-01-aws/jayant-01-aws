@@ -27,7 +27,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-  <img src="banner.svg?v=1" alt="Jayant Awasthi — animated developer banner" width="100%">
+  <img src="banner.svg?v=1" alt="Jayant Awasthi — animated developer banner" width="80%">
 </picture>
 
 <!-- Typing tagline — live service, always current, no local file needed -->
