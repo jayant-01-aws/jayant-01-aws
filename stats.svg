@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-label="Animated local GitHub statistics card for Jayant Awasthi">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18091f"/><stop offset=".55" stop-color="#35103f"/><stop offset="1" stop-color="#120817"/></linearGradient>
+  <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff4fae"/><stop offset=".5" stop-color="#e16bff"/><stop offset="1" stop-color="#925cff"/></linearGradient>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+.t{font-family:Inter,Arial,sans-serif}.m{font-family:Consolas,"Liberation Mono",monospace}
+</style>
+<rect width="720" height="420" rx="28" fill="url(#bg)" stroke="#b95bb8" stroke-opacity=".65" stroke-width="2"/>
+<circle cx="590" cy="85" r="100" fill="#ff3eaf" opacity=".08"><animate attributeName="r" values="85;115;85" dur="5s" repeatCount="indefinite"/></circle>
+<text x="34" y="48" class="m" font-size="15" fill="#f2b5e8" letter-spacing="2">GITHUB_STATS // LOCAL_RENDER</text>
+
+<!-- rank ring -->
+<g transform="translate(120 215)">
+<circle r="84" fill="#1a0d23" stroke="#432447" stroke-width="12"/>
+<circle r="84" fill="none" stroke="url(#pink)" stroke-width="12" stroke-linecap="round" stroke-dasharray="528" stroke-dashoffset="528" transform="rotate(-90)">
+  <animate attributeName="stroke-dashoffset" from="528" to="95" dur="2.2s" begin=".3s" fill="freeze"/>
+</circle>
+<circle r="66" fill="#210e2a" stroke="#ff78ca" stroke-opacity=".2"/>
+<text y="-12" text-anchor="middle" class="m" font-size="13" fill="#dca8d7">RANK</text>
+<text y="25" text-anchor="middle" class="t" font-size="34" font-weight="800" fill="#fff0fb">A+</text>
+<text y="52" text-anchor="middle" class="m" font-size="11" fill="#ff8bd2">BUILD MODE</text>
+</g>
+
+<!-- rows -->
+<g class="t">
+<g transform="translate(255 115)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin=".35s" dur=".5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="330 115" to="255 115" begin=".35s" dur=".65s" fill="freeze"/>
+<text class="m" font-size="13" fill="#cda4cb">COMMITS</text><text x="390" text-anchor="end" font-size="23" font-weight="700" fill="#fff">1,284+</text><line y1="16" x2="390" y2="16" stroke="#6e386e"/></g>
+<g transform="translate(255 180)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin=".65s" dur=".5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="330 180" to="255 180" begin=".65s" dur=".65s" fill="freeze"/>
+<text class="m" font-size="13" fill="#cda4cb">REPOSITORIES</text><text x="390" text-anchor="end" font-size="23" font-weight="700" fill="#fff">25+</text><line y1="16" x2="390" y2="16" stroke="#6e386e"/></g>
+<g transform="translate(255 245)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin=".95s" dur=".5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="330 245" to="255 245" begin=".95s" dur=".65s" fill="freeze"/>
+<text class="m" font-size="13" fill="#cda4cb">PROJECTS</text><text x="390" text-anchor="end" font-size="23" font-weight="700" fill="#fff">8+</text><line y1="16" x2="390" y2="16" stroke="#6e386e"/></g>
+<g transform="translate(255 310)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.25s" dur=".5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="330 310" to="255 310" begin="1.25s" dur=".65s" fill="freeze"/>
+<text class="m" font-size="13" fill="#cda4cb">CURRENT FOCUS</text><text x="390" text-anchor="end" font-size="19" font-weight="700" fill="#ff9bd8">DSA + FULL STACK</text><line y1="16" x2="390" y2="16" stroke="#6e386e"/></g>
+</g>
+<text x="34" y="386" class="m" font-size="12" fill="#a987a9">No API • No rate limits • Pure SVG animation</text>
+</svg>
