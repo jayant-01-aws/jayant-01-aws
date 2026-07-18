@@ -157,6 +157,55 @@ I believe in learning by building, improving through iteration, and turning comp
 ---
 
 <div align="center">
+---
+
+## 🤝 Get In Touch
+
+<div align="center">
+
+I'm always open to discussing technology, software development, creative ideas, and exciting opportunities. Let's connect! 🚀
+
+<br>
+
+<a href="mailto:jayantawasthi18@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jayantawasthi18%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://www.linkedin.com/in/jayant-awasthi-544745372/">
+  <img src="https://img.shields.io/badge/LinkedIn-Jayant%20Awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://twitter.com/krishna05703435">
+  <img src="https://img.shields.io/badge/Twitter-%40krishna05703435-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+
+<a href="https://www.instagram.com/_.jayant_.aws/">
+  <img src="https://img.shields.io/badge/Instagram-%40.jayant.aws-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://leetcode.com/u/be_a_Jayant_786/">
+  <img src="https://img.shields.io/badge/LeetCode-Jayant%20Awasthi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
+
+<br><br>
+
+### 📬 Let's Connect, Collaborate & Build Something Amazing!
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you find my work interesting, consider giving my repositories a ⭐**
+
+<br>
+
+`while (alive) { learn(); build(); solve(); repeat(); }`
+
+</div>
 
 ### 🌟 Thanks for visiting my profile!
 
