@@ -4,7 +4,7 @@
 
 ### 💻 Software Engineer • MCA Student • Full-Stack Developer
 
-<img src="assets/anime-character-animated.gif" width="420" alt="Animated anime-style developer character">
+<img src="anime-character-animated.gif" width="420" alt="Animated anime-style developer character">
 
 ### `Code. Coffee. Create. Repeat. ☕`
 
