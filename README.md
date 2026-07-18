@@ -38,7 +38,7 @@
 <br>
 
 <!-- ═══════════════════════════ AVATAR / ID CARD (local image) ═══════════════════════════ -->
-<img src="avatar.jpeg" alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat" width="260" style="border-radius:16px;">
+<img src="anime-character-animated.gif" alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat" width="260" style="border-radius:16px;">
 
 <br><br>
 
