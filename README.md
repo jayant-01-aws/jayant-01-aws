@@ -813,7 +813,7 @@ If any of my projects or write-ups saved you time, consider fueling the next one
 <a href="https://twitter.com/krishna05703435" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
-<a href="https://leetcode.com/u/be_a_parth_786/" target="_blank">
+<a href="https://leetcode.com/u/be_a_Jayant_786/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 <a href="https://www.instagram.com/_.jayant_.aws/" target="_blank">
