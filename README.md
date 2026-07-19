@@ -603,7 +603,7 @@ Handwritten Doc
 </p>
 <!-- 📈 Contribution Activity Graph -->
 <!-- 🐍 Contribution Snake -->
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://raw.githubusercontent.com/jayant-01-aws/jayant-01-aws/github-snake-pink.svg" 
     alt="Jayant Awasthi Contribution Snake"
@@ -612,7 +612,7 @@ Handwritten Doc
 </p>
 
 <br/><br/>
-<br>
+<br> -->
 
 ---
 
