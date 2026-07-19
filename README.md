@@ -40,13 +40,6 @@
 <!-- ═══════════════════════════ AVATAR / ID CARD (local image) ═══════════════════════════ -->
 <img src="lanyard.svg" alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat" width="260" style="border-radius:16px;">
 <!-- 🏆 GitHub Trophies -->
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=jayant-01-aws&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1"
-    alt="Jayant Awasthi GitHub Trophies"
-    width="95%"
-  />
-</p>
 <!-- 🏆 Local Animated Trophies -->
 <p align="center">
   <img
