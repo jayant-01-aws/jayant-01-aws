@@ -38,17 +38,7 @@
 <br>
 
 <!-- ═══════════════════════════ AVATAR / ID CARD (local image) ═══════════════════════════ -->
-<img src="lanyard.svg" alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat" width="260" style="border-radius:16px;">
-<!-- 🏆 GitHub Trophies -->
-<!-- 🏆 Local Animated Trophies -->
-<p align="center">
-  <img
-    src="Trophie.svg"
-    alt="Jayant Awasthi Developer Achievements"
-    width="95%"
-  />
-</p>
-<div align="center">
+<!-- <img src="lanyard.svg" alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat" width="260" style="border-radius:16px;"> -->
 
   <table>
     <tr>
@@ -73,6 +63,17 @@
   </tr>
 </table>
 </div>
+<!-- 🏆 GitHub Trophies -->
+<!-- 🏆 Local Animated Trophies -->
+<p align="center">
+  <img
+    src="Trophie.svg"
+    alt="Jayant Awasthi Developer Achievements"
+    width="95%"
+  />
+</p>
+<div align="center">
+
 
 <br><br>
 
