@@ -421,8 +421,11 @@ Customer ──▶ Booking Form ──▶ PHP Controller ──▶ MySQL (reserv
 - Engineered a custom Admin Panel for real-time management of approvals, cancellations, and table availability
 - Designed a secure database architecture to handle CRUD operations and ensure data consistency during peak hours
 - Managed backend operations within the Public Relations department at Express-E-Connect Pvt Ltd
+- 🔗 - **Live:** [table-reservation.xo.je](https://table-reservation.xo.je)
 
 <br>
+
+
 
 ### 🤖 AI-Powered OCR & Handwriting Digitization Platform
 
@@ -458,6 +461,7 @@ Handwritten Doc
 - **Heuristic Ranking Algorithm:** Evaluates multiple **Page Segmentation Modes (PSM)** and automatically selects the output with the highest lexical density
 - **Semantic Layout Analysis:** Uses LLM prompt engineering to programmatically reconstruct hierarchies like nested headers, tables, and body text
 - **Robust Logging Framework:** Built with **Django Middleware** to monitor pipeline latency and ensure high system availability during peak workloads
+- 🔗 **Live:** [handwriting-digitizer.onrender.com](https://handwriting-digitizer.onrender.com)
 
 <div align="center">
 <sub>📌 Pin your top repositories on your GitHub profile for a live, auto-updating version of this section.</sub>
