@@ -169,7 +169,6 @@ const jayant = {
   pronouns     : "he / him",
   location     : "Bhopal, Madhya Pradesh, India",
   currentlyOn  : "MCA @ LNCT, Bhopal (RGPV) — 2025-2027",
-  training     : "Java + DSA @ Sheryians Coding School (8-month, offline)",
   focus        : ["Java", "DSA", "Full-Stack Development", "AI / OCR"],
   loop         : "Learning → Building → Improving → Repeat",
   askMeAbout   : ["Spring Boot", "React", "Django", "OpenCV", "Computer Vision"],
