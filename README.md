@@ -601,11 +601,14 @@ Handwritten Doc
   />
 </p>
 <!-- 📈 Contribution Activity Graph -->
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=jayant-01-aws&bg_color=17091f&color=ff9bd8&line=d96bff&point=ff5cc8&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20%F0%9F%92%97"
-  alt="Jayant Awasthi Contribution Graph"
-  width="95%"
-/>
+<!-- 🐍 Contribution Snake -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/jayant-01-aws/jayant-01-aws/output/github-snake-pink.svg" 
+    alt="Jayant Awasthi Contribution Snake"
+    width="95%"
+  />
+</p>
 
 <br/><br/>
 <br>
