@@ -46,12 +46,12 @@
           <img
         src="lanyard.svg"
         alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat"
-        width="500"
+        width="260"
       />
         <img
           src="lang.svg"
           alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat"
-          width="500"
+          width="260"
         />
       
       </td>
