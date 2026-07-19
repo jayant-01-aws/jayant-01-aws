@@ -596,7 +596,7 @@ Handwritten Doc
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/jayant-01-aws/jayant-01-aws/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/jayant-01-aws/jayant-01-aws/github-snake.yml"
     alt="GitHub Contribution Snake"
   />
 </p>
