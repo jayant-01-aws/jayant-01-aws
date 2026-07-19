@@ -520,11 +520,11 @@ Handwritten Doc
 
 <table>
 <tr><th align="left">Course</th><th align="left">Provider</th><th align="left">Details</th></tr>
-<tr>
+<!-- <tr>
 <td valign="top"><b>Java + Data Structures & Algorithms (DSA)</b><br><sub>Feb 2026 – Present</sub></td>
 <td valign="top">Sheryians Coding School</td>
 <td valign="top">Rigorous 8-month offline professional training program focused on advanced problem-solving and software development. Building deep mastery of Java and DSA to optimize code efficiency and performance, while practicing complex algorithmic challenges to strengthen logical reasoning and computational thinking — all in preparation for high-level technical roles in software engineering.</td>
-</tr>
+</tr> -->
 <tr>
 <td valign="top"><b>Front-End Web Development Training</b></td>
 <td valign="top">Reliance Foundation & NSDC Academy</td>
