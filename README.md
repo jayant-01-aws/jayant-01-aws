@@ -85,7 +85,7 @@
 
 <br><br>
 
-<sub>📍 Bhopal, Madhya Pradesh, India &nbsp;·&nbsp; 🎓 MCA @ LNCT (RGPV) 2025–2027 &nbsp;·&nbsp; 💻 Java + DSA Trainee @ Sheryians Coding School</sub>
+<sub>📍 Bhopal, Madhya Pradesh, India &nbsp;·&nbsp; 🎓 MCA @ LNCT (RGPV) 2025–2027 &nbsp;·&nbsp; </sub>
 
 <br><br>
 
