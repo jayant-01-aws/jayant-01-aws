@@ -48,12 +48,14 @@
         alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat"
         width="300"
       />
+         <td align="center" valign="middle">
         <img
           src="lang.svg"
           alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat"
           width="260"
         />
       </td>
+    </tr>
       
       </td>
 
