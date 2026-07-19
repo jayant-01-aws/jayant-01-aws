@@ -61,24 +61,25 @@
       </td>
 
   </table>
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        src="lanyard.svg"
+        alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat"
+        width="260"
+      />
+    </td>
 
-  <img
-    src="lanyard.svg"
-    alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat"
-    width="260"
-    style="border-radius: 16px;"
-  />
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img
-    src="lang.svg"
-    alt="Jayant Awasthi Programming Languages"
-    width="260"
-  />
-
-</div>
+    <td align="center" valign="middle">
+      <img
+        src="lang.svg"
+        alt="Jayant Awasthi Programming Languages"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
 </div>
 
 <br><br>
