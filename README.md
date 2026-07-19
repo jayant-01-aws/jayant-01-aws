@@ -46,7 +46,7 @@
           <img
         src="lanyard.svg"
         alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat"
-        width="260"
+        width="300"
       />
         <img
           src="lang.svg"
