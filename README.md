@@ -113,7 +113,7 @@
 
 <!-- ═══════════════════════════ PROFILE VIEWS / STATUS (live services) ═══════════════════════════ -->
 ![Profile views](https://komarev.com/ghpvc/?username=jayant-01-aws&style=for-the-badge&color=ff4fae&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/jayant-01-aws?style=for-the-badge&color=d96bff&labelColor=18091f)
+![GitHub Followers](https://img.shields.io/github/followers/jayant-01-aws?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=18091f&color=d96bff)
 ![Status](https://img.shields.io/badge/status-BUILDING%2024%2F7-9b5cff?style=for-the-badge&labelColor=18091f)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20SDE%20Roles-2EC866?style=for-the-badge&labelColor=18091f)
 
