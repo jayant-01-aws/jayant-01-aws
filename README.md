@@ -596,8 +596,9 @@ Handwritten Doc
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/jayant-01-aws/jayant-01-aws/github-snake.yml"
-    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/jayant-01-aws/jayant-01-aws/output/github-snake-pink.svg"
+    alt="Jayant Awasthi GitHub Contribution Snake"
+    width="95%"
   />
 </p>
 <!-- 📈 Contribution Activity Graph -->
