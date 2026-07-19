@@ -53,6 +53,7 @@
           alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat"
           width="260"
         />
+      </td>
       
       </td>
 
