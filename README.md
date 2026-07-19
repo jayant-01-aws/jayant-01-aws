@@ -43,19 +43,20 @@
   <table>
     <tr>
       <td align="center" valign="middle">
+          <img
+        src="lanyard.svg"
+        alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat"
+        width="500"
+      />
         <img
           src="lang.svg"
           alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat"
-          width="260"
+          width="500"
         />
-        <img
-        src="lanyard.svg"
-        alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat"
-        width="260"
-      />
+      
       </td>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center" valign="middle">
       <img
@@ -65,7 +66,7 @@
       />
     </td>
   </tr>
-</table>
+</table> -->
 </div>
 <!-- 🏆 GitHub Trophies -->
 <!-- 🏆 Local Animated Trophies -->
