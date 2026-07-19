@@ -61,7 +61,24 @@
       </td>
 
   </table>
+<div align="center">
 
+  <img
+    src="lanyard.svg"
+    alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat"
+    width="260"
+    style="border-radius: 16px;"
+  />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img
+    src="lang.svg"
+    alt="Jayant Awasthi Programming Languages"
+    width="260"
+  />
+
+</div>
 </div>
 
 <br><br>
