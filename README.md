@@ -54,7 +54,7 @@
     <tr>
       <td align="center" valign="middle">
         <img
-          src="lanyard.svg"
+          src="lang.svg"
           alt="Jayant Awasthi — illustrated avatar, code, coffee, repeat"
           width="260"
         />
