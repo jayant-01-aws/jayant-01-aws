@@ -70,14 +70,6 @@
         width="260"
       />
     </td>
-
-    <td align="center" valign="middle">
-      <img
-        src="lang.svg"
-        alt="Jayant Awasthi Programming Languages"
-        width="420"
-      />
-    </td>
   </tr>
 </table>
 </div>
