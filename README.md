@@ -604,7 +604,7 @@ Handwritten Doc
 <!-- 🐍 Contribution Snake -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/jayant-01-aws/jayant-01-aws/output/github-snake-pink.svg" 
+    src="https://raw.githubusercontent.com/jayant-01-aws/jayant-01-aws/github-snake-pink.svg" 
     alt="Jayant Awasthi Contribution Snake"
     width="95%"
   />
