@@ -180,7 +180,6 @@ const jayant = {
 - 🎓 MCA student at **Lakshmi Narain College of Technology (LNCT), Bhopal**, under **RGPV**
 - 🧠 Deep focus on **Java, Data Structures & Algorithms**, and **Full-Stack Development**
 - 🤖 Building **AI / OCR** and computer-vision powered tools — hybrid AI engines, vision pipelines, semantic layout reconstruction
-- 🌱 Currently in an intensive 8-month offline **Java + DSA** training program at **Sheryians Coding School**
 - 💼 Hands-on internship experience spanning web development, PHP backend systems, and Java full-stack engineering
 - 🧩 Comfortable moving between frontend polish (React, Three.js, GSAP) and backend rigor (Spring Boot, Django, SQL schema design)
 - 💬 Ask me about Spring Boot, React, Django, OpenCV, or anything OCR/vision related
