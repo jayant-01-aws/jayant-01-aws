@@ -592,6 +592,14 @@ Handwritten Doc
 ![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=jayant-01-aws&theme=react-dark&bg_color=18091f&color=ff4fae&line=ff4fae&point=ffffff&area=true&hide_border=true)
 
 </div>
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/jayant-01-aws/jayant-01-aws/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 <br>
 
