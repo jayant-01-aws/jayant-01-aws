@@ -247,7 +247,6 @@ const jayant = {
 2024 ──● BCA completed (80.30%)   ●── Web Dev Intern, MurphTech
 2024 ──● Backend Intern, Express-E-Connect
 2025 ──● MCA begins, LNCT Bhopal (RGPV)   ●── Java Full Stack Virtual Intern, EduSkills
-2026 ──● Java + DSA training, Sheryians Coding School (ongoing)
 2027 ──● MCA completion (expected)
 ```
 
