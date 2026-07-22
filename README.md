@@ -479,9 +479,9 @@ Handwritten Doc
       │
       ▼
 ┌───────────────────┐     ┌──────────────────────┐
-│ Vision Pipeline    │────▶│ Hybrid AI Engine      │
-│ Adaptive CLAHE +   │     │ Gemini 1.5 Flash  +   │
-│ Bilateral Filtering│     │ Tesseract OCR         │
+│ Vision Pipeline    │────▶│ Hybrid AI Engine   │
+│ Adaptive CLAHE +   │     │ Gemini 1.5 Flash  + │
+│ Bilateral Filtering│     │ Tesseract OCR       │
 └───────────────────┘     └──────────┬───────────┘
                                       ▼
                      ┌────────────────────────────┐
@@ -490,9 +490,9 @@ Handwritten Doc
                      └──────────────┬─────────────┘
                                     ▼
                      ┌────────────────────────────┐
-                     │ Semantic Layout Analysis    │
-                     │ (LLM prompt engineering)    │
-                     │ headers · tables · body     │
+                     │ Semantic Layout Analysis   │
+                     │ (LLM prompt engineering)   │
+                     │ headers · tables · body    │
                      └──────────────┬─────────────┘
                                     ▼
                        Django Middleware Logging
@@ -1004,7 +1004,7 @@ jayant-01-aws/                          <- must equal your GitHub username
 
 <br>
 
-- 📖 Deep in the **Java + DSA** offline cohort at Sheryians Coding School — daily problem-solving practice
+<!--- 📖 Deep in the **Java + DSA** offline cohort at Sheryians Coding School — daily problem-solving practice-->
 - 🏗️ Sharpening **system design & cloud fundamentals** alongside coursework
 - 🧪 Polishing the **AI-Powered OCR & Handwriting Digitization Platform** for a public demo release
 - 🎯 Preparing for placement/internship interviews around **Java backend + DSA**
