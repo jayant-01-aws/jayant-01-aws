@@ -786,7 +786,7 @@ C/C++/C#/SQL ████░░░░░░░░░░░░░░░░   10.0
 - [x] AI for Retail micro-credential — RASCI
 - [x] Cisco Networking Academy — 3 virtual experience tracks (Modern AI, Applied AI, Data Analytics)
 - [x] 5 Forage job simulations — Tata, AWS, HSBC, Deloitte (x2)
-- [ ] Complete Java + DSA program — Sheryians Coding School *(in progress, Feb 2026 – ~Oct 2026)*
+<!--- [ ] Complete Java + DSA program — Sheryians Coding School *(in progress, Feb 2026 – ~Oct 2026)*-->
 - [ ] Complete MCA — LNCT Bhopal, RGPV *(2025 – 2027)*
 - [ ] Land a Software Engineer / SDE role or high-quality internship
 
@@ -984,7 +984,7 @@ jayant-01-aws/                          <- must equal your GitHub username
 | 💼 Internships Completed | 3 (MurphTech, Express-E-Connect, EduSkills Academy) |
 | 🗂️ Featured Projects | 3 (3D Portfolio, Table Booking System, AI OCR Platform) |
 | 🏢 Job Simulations | 5 (Tata, AWS, HSBC, Deloitte × 2) |
-| 📚 Courses / Trainings | 5+ (Sheryians, Reliance/NSDC, Tech Mahindra, RASCI) |
+| 📚 Courses / Trainings | 5+ (Reliance/NSDC, Tech Mahindra, RASCI) |
 | 🎖️ Certificates | 7 |
 | 🧪 Academic Internships | 3 (Cisco Networking Academy) |
 | 🏆 Notable Achievement | 90% score, National E-Quiz on Statistics Day 2022 |
