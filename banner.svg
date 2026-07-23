@@ -1,10 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 width="1280" height="740" viewBox="0 0 1280 740" role="img"
-aria-label="Animated dark pink and purple developer profile banner for Jayant Awasthi">
+aria-label="Animated dark-mode developer profile banner for Jayant Awasthi">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16071d"/><stop offset=".45" stop-color="#3b0d43"/><stop offset="1" stop-color="#14051f"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#18091f"/><stop offset=".45" stop-color="#1f0f2b"/><stop offset="1" stop-color="#120814"/></linearGradient>
 <linearGradient id="pinkPurple" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff4fb3"/><stop offset=".5" stop-color="#d96bff"/><stop offset="1" stop-color="#9b5cff"/></linearGradient>
 <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff5cc8" stop-opacity="0"/><stop offset=".5" stop-color="#ffb7ef" stop-opacity=".95"/><stop offset="1" stop-color="#9d5cff" stop-opacity="0"/></linearGradient>
+<linearGradient id="namePurple" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e7c9ff"/><stop offset=".45" stop-color="#c07bff"/><stop offset="1" stop-color="#5b1f8f"/></linearGradient>
+<filter id="nameGlow" x="-30%" y="-60%" width="160%" height="260%"><feDropShadow dx="0" dy="3" stdDeviation="10" flood-color="#3d0a5c" flood-opacity=".75"/></filter>
 <filter id="glowPink" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <filter id="glowSmall" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000" flood-opacity=".45"/></filter>
@@ -12,39 +14,40 @@ aria-label="Animated dark pink and purple developer profile banner for Jayant Aw
 <clipPath id="charReveal"><rect x="725" y="70" width="500" height="650"><animate attributeName="y" from="-620" to="70" dur="2.8s" begin="0s" fill="freeze"/><animate attributeName="height" from="0" to="650" dur="2.8s" begin="0s" fill="freeze"/></rect></clipPath>
 </defs>
 <style>
-.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}.sans{font-family:Inter,Arial,sans-serif}.tiny{font-size:13px}.small{font-size:16px}.label{fill:#eab8e9;letter-spacing:1px}.muted{fill:#c89bc8}.white{fill:#fff4ff}.pink{fill:#ff78c8}.purple{fill:#c88cff}.pill{fill:#6f1d70;stroke:#d96bff;stroke-opacity:.55}
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&amp;display=swap');
+.cursive-text{font-family:'Alex Brush',cursive;}
+.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}.sans{font-family:Inter,Arial,sans-serif}.tiny{font-size:13px}.small{font-size:16px}.label{fill:#c98bd8;letter-spacing:1px}.muted{fill:#c9a3d8}.white{fill:#ffffff}.pink{fill:#ff8bd2}.purple{fill:#d3b3ff}.pill{fill:#2a1533;stroke:#d96bff;stroke-opacity:.6}
 </style>
 <g clip-path="url(#roundClip)">
 <rect width="1280" height="740" fill="url(#bg)"/>
-<circle cx="180" cy="120" r="125" fill="#ff38b8" opacity=".11" filter="url(#glowPink)"><animate attributeName="r" values="110;145;110" dur="5s" repeatCount="indefinite"/></circle>
-<circle cx="1090" cy="590" r="170" fill="#8f3dff" opacity=".13" filter="url(#glowPink)"><animate attributeName="r" values="150;185;150" dur="6s" repeatCount="indefinite"/></circle>
-<g fill="#ff9cdd"><circle cx="75" cy="600" r="2"><animate attributeName="cy" values="620;430;620" dur="5s" repeatCount="indefinite"/></circle><circle cx="240" cy="670" r="2"><animate attributeName="cy" values="680;470;680" dur="6s" repeatCount="indefinite"/></circle><circle cx="620" cy="610" r="2"><animate attributeName="cy" values="620;360;620" dur="5.5s" repeatCount="indefinite"/></circle><circle cx="1180" cy="690" r="2"><animate attributeName="cy" values="700;480;700" dur="4.8s" repeatCount="indefinite"/></circle></g>
+<circle cx="180" cy="120" r="125" fill="#e95cae" opacity=".11" filter="url(#glowPink)"><animate attributeName="r" values="110;145;110" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="1090" cy="590" r="170" fill="#8b6be0" opacity=".13" filter="url(#glowPink)"><animate attributeName="r" values="150;185;150" dur="6s" repeatCount="indefinite"/></circle>
+<g fill="#e78abd"><circle cx="75" cy="600" r="2"><animate attributeName="cy" values="620;430;620" dur="5s" repeatCount="indefinite"/></circle><circle cx="240" cy="670" r="2"><animate attributeName="cy" values="680;470;680" dur="6s" repeatCount="indefinite"/></circle><circle cx="620" cy="610" r="2"><animate attributeName="cy" values="620;360;620" dur="5.5s" repeatCount="indefinite"/></circle><circle cx="1180" cy="690" r="2"><animate attributeName="cy" values="700;480;700" dur="4.8s" repeatCount="indefinite"/></circle></g>
 
 <g transform="translate(64 48)">
-<rect width="585" height="82" rx="18" fill="#170d20" stroke="#9d4e9e" stroke-opacity=".7"/>
+<rect width="585" height="82" rx="18" fill="#1f0f22" stroke="#d96bff" stroke-opacity=".5"/>
 <circle cx="24" cy="25" r="6" fill="#ff5f7a"/><circle cx="44" cy="25" r="6" fill="#ffc15f"/><circle cx="64" cy="25" r="6" fill="#61e294"/>
-<text x="24" y="58" class="mono small" fill="#ffb9e9">user@dev:~$ cat README.md</text>
-<rect x="330" y="43" width="10" height="21" fill="#ff70c9"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<text x="24" y="58" class="mono small" fill="#ff8bd2">user@dev:~$ cat README.md</text>
+<rect x="330" y="43" width="10" height="21" fill="#ff4fae"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 </g>
 
 <g transform="translate(64 176)">
-<text x="0" y="92" font-family="cursive" font-size="86" font-weight="700" fill="url(#pinkPurple)" stroke="#ff9fdf" stroke-opacity=".15" stroke-width="2" style="paint-order:stroke">Jayant Awasthi</text>
-<mask id="nameMask"><rect x="0" y="0" width="600" height="130" fill="black"/><rect x="0" y="0" width="600" height="130" fill="white"><animate attributeName="x" from="-600" to="0" dur="2.2s" begin=".25s" fill="freeze"/></rect></mask>
-<text x="0" y="92" font-family="cursive" font-size="86" font-weight="700" fill="url(#pinkPurple)" mask="url(#nameMask)">Jayant Awasthi</text>
+<text x="0" y="92" class="cursive-text" font-size="96" font-weight="700" fill="url(#pinkPurple)" textLength="620" lengthAdjust="spacingAndGlyphs">Jayant Awasthi</text>
+<rect x="0" y="106" width="0" height="6" rx="3" fill="url(#pinkPurple)"><animate attributeName="width" from="0" to="480" dur="1.4s" begin=".3s" fill="freeze"/></rect>
 </g>
 
 <g transform="translate(70 300)">
-<text class="mono small" fill="#f4c9ef">ROLE &gt; </text>
+<text class="mono small" fill="#c98bd8">ROLE &gt; </text>
 <text x="92" class="mono small pink">Software Engineer<animate attributeName="opacity" values="1;1;0;0;1" dur="8s" repeatCount="indefinite"/></text>
 <text x="92" class="mono small purple" opacity="0">Full-Stack Developer<animate attributeName="opacity" values="0;0;1;1;0" dur="8s" repeatCount="indefinite"/></text>
 <text x="92" class="mono small pink" opacity="0">AI &amp; OCR Explorer<animate attributeName="opacity" values="0;0;0;0;1;1;0" dur="8s" repeatCount="indefinite"/></text>
 </g>
 
 <g transform="translate(64 345)">
-<rect width="560" height="92" rx="16" fill="#24102b" stroke="#bd5dbb" stroke-opacity=".65"/>
-<text x="24" y="34" class="mono tiny" fill="#ff7bc9">&gt; echo "$TAGLINE"</text>
+<rect width="560" height="92" rx="16" fill="#0f0712" stroke="#d96bff" stroke-opacity=".5"/>
+<text x="24" y="34" class="mono tiny" fill="#ff8bd2">&gt; echo "$TAGLINE"</text>
 <text x="24" y="68" class="sans small white">"Turning ideas into working software 🚀"</text>
-<rect x="24" y="76" width="350" height="2" fill="#ff68c5"><animate attributeName="width" values="0;350;350;0" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="24" y="76" width="350" height="2" fill="#ff4fae"><animate attributeName="width" values="0;350;350;0" dur="4s" repeatCount="indefinite"/></rect>
 </g>
 
 <g transform="translate(64 470)" class="sans small">
@@ -66,15 +69,15 @@ aria-label="Animated dark pink and purple developer profile banner for Jayant Aw
 </g>
 
 <g transform="translate(64 665)">
-<text class="mono tiny label">XP</text><rect x="35" y="-11" width="430" height="12" rx="6" fill="#2a1531"/>
+<text class="mono tiny label">XP</text><rect x="35" y="-11" width="430" height="12" rx="6" fill="#3a2140"/>
 <rect x="35" y="-11" width="0" height="12" rx="6" fill="url(#pinkPurple)"><animate attributeName="width" from="0" to="360" dur="2.2s" begin="1.2s" fill="freeze"/></rect>
 <text x="480" class="mono tiny pink">BUILDING 24/7</text>
 </g>
 
 <g transform="translate(700 70)" filter="url(#shadow)">
-<rect width="500" height="250" rx="20" fill="#120b18" stroke="#a654a5"/><rect width="500" height="42" rx="20" fill="#24112c"/>
+<rect width="500" height="250" rx="20" fill="#150a1a" stroke="#d96bff" stroke-opacity=".6"/><rect width="500" height="42" rx="20" fill="#20101f"/>
 <circle cx="25" cy="21" r="6" fill="#ff5f7a"/><circle cx="45" cy="21" r="6" fill="#ffc15f"/><circle cx="65" cy="21" r="6" fill="#61e294"/>
-<text x="90" y="26" class="mono tiny" fill="#d8acd7">dreams.jsx</text>
+<text x="90" y="26" class="mono tiny" fill="#e0a8cc">dreams.jsx</text>
 <g class="mono tiny">
 <text x="28" y="78" fill="#c78cff">const</text><text x="82" y="78" fill="#fff"> buildDreams = </text><text x="205" y="78" fill="#ff77c8">()</text><text x="220" y="78" fill="#fff"> =&gt; {'{'}</text>
 <text x="45" y="108" fill="#ffb3e4">return</text><text x="105" y="108" fill="#fff"> (</text><text x="118" y="108" fill="#9fdbff">&lt;Dream</text>
@@ -84,19 +87,19 @@ aria-label="Animated dark pink and purple developer profile banner for Jayant Aw
 <text x="45" y="228" fill="#9fdbff">/&gt;</text><text x="70" y="228" fill="#fff">);</text>
 <text x="28" y="258" fill="#c78cff">{'}'}</text>
 </g>
-<rect x="25" y="55" width="445" height="220" fill="#120b18" opacity="0"><animate attributeName="opacity" values="1;1;0" dur="5s" begin=".8s" fill="freeze"/><animate attributeName="height" values="220;220;0" dur="5s" begin=".8s" fill="freeze"/></rect>
+<rect x="25" y="55" width="445" height="220" fill="#150a1a" opacity="0"><animate attributeName="opacity" values="1;1;0" dur="5s" begin=".8s" fill="freeze"/><animate attributeName="height" values="220;220;0" dur="5s" begin=".8s" fill="freeze"/></rect>
 </g>
 
 <g transform="translate(710 350)" filter="url(#glowSmall)">
-<rect width="470" height="90" rx="18" fill="#170d20" stroke="#7c3e80"/>
+<rect width="470" height="90" rx="18" fill="#1a0d1e" stroke="#d96bff" stroke-opacity=".6"/>
 <text x="235" y="55" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="27" letter-spacing="2" fill="#ff70cb">KEEP CODING KEEP GROWING<animate attributeName="opacity" values=".2;1;.55;1;.35;1" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></text>
 </g>
 
-<g fill="#ff72c9" filter="url(#glowSmall)">
+<g fill="#ff6fc4" filter="url(#glowSmall)">
 <text x="1160" y="90" font-size="24">♥<animate attributeName="y" values="100;60;100" dur="3s" repeatCount="indefinite"/></text>
 <text x="670" y="570" font-size="22">♥<animate attributeName="y" values="580;530;580" dur="4s" repeatCount="indefinite"/></text>
 </g>
-<g stroke="#ffd0f2" stroke-width="2" fill="none" opacity=".9">
+<g stroke="#ff8bd2" stroke-width="2" fill="none" opacity=".9">
 <path d="M1080 155v24M1068 167h24"><animate attributeName="opacity" values=".2;1;.2" dur="1.7s" repeatCount="indefinite"/></path>
 <path d="M650 490v20M640 500h20"><animate attributeName="opacity" values=".2;1;.2" dur="2.1s" repeatCount="indefinite"/></path>
 <path d="M1210 470v18M1201 479h18"><animate attributeName="opacity" values=".2;1;.2" dur="1.5s" repeatCount="indefinite"/></path>
@@ -110,6 +113,6 @@ xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAQACAYAAAB/HSuDAA
 
 <rect x="710" y="-20" width="510" height="5" rx="2.5" fill="url(#scan)" filter="url(#glowSmall)"><animate attributeName="y" values="-20;760" dur="3.5s" repeatCount="indefinite"/></rect>
 <rect x="0" y="-20" width="1280" height="4" fill="url(#scan)" opacity=".72" filter="url(#glowSmall)"><animate attributeName="y" values="-20;760" dur="3.5s" repeatCount="indefinite"/></rect>
-<rect x="2" y="2" width="1276" height="736" rx="32" fill="none" stroke="#c75ec1" stroke-opacity=".55"/>
+<rect x="2" y="2" width="1276" height="736" rx="32" fill="none" stroke="#d96bff" stroke-opacity=".45"/>
 </g>
 </svg>
