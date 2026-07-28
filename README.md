@@ -671,7 +671,7 @@ Handwritten Doc
 
 ---
 
-## 🐍 Contribution Snake
+##  🐍 Contribution Snake
 
 <sub>Refreshed nightly by <code>.github/workflows/github-snake.yml</code> and published to the <code>output</code> branch.</sub>
 
