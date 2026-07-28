@@ -924,9 +924,8 @@ If any of my projects or write-ups saved you time, consider fueling the next one
 <br>
 
 ---
-<!--
 
-## 📦 Full Repo Structure
+##📦 Full Repo Structure
 
 <details>
 <summary>📁 Click to expand the complete file tree and step-by-step setup instructions</summary>
