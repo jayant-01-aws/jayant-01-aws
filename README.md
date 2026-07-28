@@ -924,8 +924,9 @@ If any of my projects or write-ups saved you time, consider fueling the next one
 <br>
 
 ---
+<!--
 
-## 📦 Full Repo Structure & Setup Guide
+## 📦 Full Repo Structure
 
 <details>
 <summary>📁 Click to expand the complete file tree and step-by-step setup instructions</summary>
@@ -946,16 +947,6 @@ jayant-01-aws/                          <- must equal your GitHub username
         └── workflows/
             └── github-snake.yml        <- nightly contribution-snake job
 ```
-
-### Step-by-step
-
-1. **Create the special repository.** On GitHub, create a new **public** repository with a name that exactly matches your username — in this case `jayant-01-aws`. GitHub automatically detects this and shows the repo's README on your profile page.
-2. **Add the README.** Commit this `README.md` at the repository root.
-3. **Add the local SVG/image assets.** Commit `banner.svg`, `banner-light.svg`, `stats.svg`, `langs.svg`, `trophies.svg`, and `avatar.jpeg` at the repository root, in the same folder as `README.md`, so the relative paths (`banner.svg?v=1`, `avatar.jpeg`, etc.) resolve correctly.
-4. **Add the workflow.** Create the folder path `.github/workflows/` and commit `github-snake.yml` inside it.
-5. **Trigger the workflow once manually.** Go to the **Actions** tab → select **Generate GitHub Contribution Snake** → click **Run workflow**. This creates the `output` branch that the snake image is pulled from.
-6. **Verify rendering.** Visit `https://github.com/jayant-01-aws` — the banner, avatar, stat cards, and trophy case should render immediately since they're local files; the snake and streak stats may take a minute to catch up since they depend on external services / the first workflow run.
-7. **Cache-bust when you edit an asset.** If you update any SVG or image and GitHub keeps serving a stale cached copy, bump the `?v=1` query string to `?v=2` on that asset's reference in this README, then commit both the updated asset and the README together.
 
 ### Troubleshooting
 
