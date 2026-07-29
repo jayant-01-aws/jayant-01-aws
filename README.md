@@ -310,22 +310,17 @@ const jayant = {
 
 </div>
 
-## 💻 Tech Stack & Tools
-
-## 💻 Tech Stack & Tools
-
-## 💻 Tech Stack, Tools & Profiles
 
 ## 💻 Tech Stack, Tools & Profiles
 
 <p align="center">
-  <!-- Main Tech Stack (SkillIcons) -->
+  <!-- Main Tech Stack & Profiles (SkillIcons) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,kotlin,php,js,html,css,react,threejs,mysql,mongodb,replit,linkedin,bash,git,github,vscode,idea,pycharm,androidstudio,unity,unreal,blender,ps,ai,pr,discord&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,kotlin,php,js,html,css,react,threejs,mysql,mongodb,replit,linkedin,duolingo,bash,git,github,vscode,idea,pycharm,androidstudio,unity,unreal,blender,ps,ai,pr,discord&perline=7" />
   </a>
 </p>
 
-<!-- Coding Profiles, Design & Freelance Tools -->
+<!-- Coding Platforms, Design & Freelance Tools -->
 <p align="center">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42" width="42" alt="LeetCode" style="margin: 3px;" />
   <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="42" width="42" alt="GFG" style="margin: 3px;" />
