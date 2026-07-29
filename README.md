@@ -314,14 +314,25 @@ const jayant = {
 
 ## 💻 Tech Stack & Tools
 
+## 💻 Tech Stack, Tools & Profiles
+
 <p align="center">
-  <!-- Main Tech Stack & Tools (SkillIcons Grid) -->
+  <!-- Main Tech Stack (SkillIcons) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,kotlin,php,js,html,css,react,threejs,mysql,bash,git,github,vscode,idea,pycharm,androidstudio,unity,unreal,blender,ps,ai,pr" />
-      <img src="https://cdn.simpleicons.org/coreldraw/000000" height="40" width="40" alt="CorelDRAW" style="margin: 4px;" />
-  <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" width="40" alt="Fiverr" style="margin: 4px;" />
-  <img src="https://cdn.simpleicons.org/behance/1769FF" height="40" width="40" alt="Behance" style="margin: 4px;" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,kotlin,php,js,html,css,react,threejs,mysql,bash,git,github,vscode,idea,pycharm,androidstudio,unity,unreal,blender,ps,ai,pr,discord&perline=7" />
   </a>
+</p>
+
+<!-- Coding Profiles, Design & Freelance Tools -->
+<p align="center">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42" width="42" alt="LeetCode" style="margin: 3px;" />
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="42" width="42" alt="GFG" style="margin: 3px;" />
+  <img src="https://cdn.simpleicons.org/codechef/5B4636" height="42" width="42" alt="CodeChef" style="margin: 3px;" />
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="42" width="42" alt="HackerRank" style="margin: 3px;" />
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="42" width="42" alt="Codeforces" style="margin: 3px;" />
+  <img src="https://cdn.simpleicons.org/coreldraw/000000" height="42" width="42" alt="CorelDRAW" style="margin: 3px;" />
+  <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="42" width="42" alt="Fiverr" style="margin: 3px;" />
+  <img src="https://cdn.simpleicons.org/behance/1769FF" height="42" width="42" alt="Behance" style="margin: 3px;" />
 </p>
 
 <!-- Additional Tools & Platforms (Matching SVG Icons) -->
