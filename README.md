@@ -989,7 +989,7 @@ jayant-01-aws/                          <- must equal your GitHub username
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/jayantawasthi18" target="_blank">
-    <img src="https://gfg-stats-eight.vercel.app/jayantawasthi18" alt="Jayant Awasthi's GeeksforGeeks Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayantawasthi18&theme=dark" alt="Coding Streak" />
   </a>
 </p>
 
