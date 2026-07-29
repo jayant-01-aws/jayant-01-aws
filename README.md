@@ -316,10 +316,12 @@ const jayant = {
 
 ## 💻 Tech Stack, Tools & Profiles
 
+## 💻 Tech Stack, Tools & Profiles
+
 <p align="center">
   <!-- Main Tech Stack (SkillIcons) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,kotlin,php,js,html,css,react,threejs,mysql,bash,git,github,vscode,idea,pycharm,androidstudio,unity,unreal,blender,ps,ai,pr,discord&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,kotlin,php,js,html,css,react,threejs,mysql,mongodb,replit,linkedin,bash,git,github,vscode,idea,pycharm,androidstudio,unity,unreal,blender,ps,ai,pr,discord&perline=7" />
   </a>
 </p>
 
@@ -334,7 +336,6 @@ const jayant = {
   <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="42" width="42" alt="Fiverr" style="margin: 3px;" />
   <img src="https://cdn.simpleicons.org/behance/1769FF" height="42" width="42" alt="Behance" style="margin: 3px;" />
 </p>
-
 <!-- Additional Tools & Platforms (Matching SVG Icons) -->
 <!-- <p align="center"> -->
   <!-- <img src="https://cdn.simpleicons.org/microsoftword/2B579A" height="40" width="40" alt="Word" style="margin: 4px;" /> -->
