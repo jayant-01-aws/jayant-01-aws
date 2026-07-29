@@ -985,6 +985,13 @@ jayant-01-aws/                          <- must equal your GitHub username
 <br>
 
 ---
+## 🟢 GeeksforGeeks Profile
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/jayantawasthi18" target="_blank">
+    <img src="https://gfgstatscard.vercel.app/jayantawasthi18?theme=dark" alt="Jayant Awasthi's GeeksforGeeks Stats" />
+  </a>
+</p>
 
 ## 🧭 /now
 
