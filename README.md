@@ -310,6 +310,13 @@ const jayant = {
 
 </div>
 
+## 💻 Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,idea,pycharm,teams&perline=6" />
+  </a>
+</p>
 <br>
 
 ### 📊 Self-Rated Proficiency
