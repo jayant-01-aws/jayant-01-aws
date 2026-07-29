@@ -316,7 +316,7 @@ const jayant = {
 <p align="center">
   <!-- Main Tech Stack (SkillIcons) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,kotlin,haskell,php,js,html,css,react,threejs,mysql,mongodb,replit,linkedin,vercel,bash,git,github,vscode,idea,pycharm,androidstudio,unity,unreal,blender,ps,ai,pr,nodejs,aws,discord,docker,svg,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,kotlin,haskell,php,js,html,css,react,threejs,mysql,mongodb,replit,linkedin,vercel,bash,git,github,vscode,idea,pycharm,androidstudio,unity,unreal,blender,ps,ai,pr,nodejs,aws,discord,docker,svg,dreamweaver,visualstudio,wordpress,&perline=10" />
   </a>
 </p>
 
