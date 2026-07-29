@@ -635,6 +635,7 @@ Handwritten Doc
 ![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=jayant-01-aws&theme=react-dark&bg_color=18091f&color=ff4fae&line=ff4fae&point=ffffff&area=true&hide_border=true)
 
 </div>
+
 ## 🐍 My Contribution Snake
 
 <p align="center">
@@ -990,10 +991,12 @@ jayant-01-aws/                          <- must equal your GitHub username
 </div>
 
 <br>
+
 ## 🏆 GFG STATUS
+
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/jayantawasthi18" target="_blank">
-    <img src="https://raw.githubusercontent.com/jayant-01/jayant-01/main/gfg-stats.svg" alt="Jayant Awasthi GeeksforGeeks Stats" />
+    <img src="https://raw.githubusercontent.com/jayant-01-aws/jayant-01-aws/main/gfg-stats.svg" alt="Jayant Awasthi GeeksforGeeks Stats" />
   </a>
 </p>
 
