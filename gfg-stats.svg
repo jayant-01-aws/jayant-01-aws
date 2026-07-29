@@ -1,0 +1,46 @@
+<svg width="450" height="210" viewBox="0 0 450 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Card Background -->
+  <rect width="450" height="210" rx="12" fill="#1e1b2e" stroke="#382a4a" stroke-width="1.5"/>
+
+  <!-- Profile Header -->
+  <text x="25" y="32" fill="#c084fc" font-family="sans-serif" font-weight="bold" font-size="17">Jayant Awasthi</text>
+  <text x="25" y="48" fill="#94a3b8" font-family="sans-serif" font-size="11">@jayantawasthi18 • Software Engineer</text>
+
+  <!-- Divider -->
+  <line x1="25" y1="60" x2="425" y2="60" stroke="#382a4a" stroke-width="1"/>
+
+  <!-- Top Stats Row -->
+  <text x="25" y="83" fill="#e2e8f0" font-family="sans-serif" font-size="13" font-weight="600">Coding Score:</text>
+  <text x="120" y="83" fill="#c084fc" font-family="sans-serif" font-size="15" font-weight="bold">91</text>
+
+  <text x="175" y="83" fill="#e2e8f0" font-family="sans-serif" font-size="13" font-weight="600">Total Solved:</text>
+  <text x="268" y="83" fill="#4ade80" font-family="sans-serif" font-size="15" font-weight="bold">32</text>
+
+  <text x="315" y="83" fill="#e2e8f0" font-family="sans-serif" font-size="13" font-weight="600">Submissions:</text>
+  <text x="425" y="83" fill="#60a5fa" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="end">28</text>
+
+  <!-- Divider for Difficulty -->
+  <line x1="25" y1="100" x2="425" y2="100" stroke="#382a4a" stroke-width="1" stroke-dasharray="3 3"/>
+  <text x="25" y="118" fill="#94a3b8" font-family="sans-serif" font-size="11" font-weight="600">DIFFICULTY BREAKDOWN</text>
+
+  <!-- Difficulty Badges -->
+  <!-- Basic -->
+  <rect x="25" y="130" width="90" height="55" rx="8" fill="#13111c" stroke="#22c55e" stroke-width="1"/>
+  <text x="70" y="150" fill="#22c55e" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">BASIC</text>
+  <text x="70" y="172" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle">7</text>
+
+  <!-- Easy -->
+  <rect x="128" y="130" width="90" height="55" rx="8" fill="#13111c" stroke="#3b82f6" stroke-width="1"/>
+  <text x="173" y="150" fill="#3b82f6" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">EASY</text>
+  <text x="173" y="172" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle">9</text>
+
+  <!-- Medium -->
+  <rect x="231" y="130" width="90" height="55" rx="8" fill="#13111c" stroke="#eab308" stroke-width="1"/>
+  <text x="276" y="150" fill="#eab308" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">MEDIUM</text>
+  <text x="276" y="172" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle">15</text>
+
+  <!-- Hard -->
+  <rect x="335" y="130" width="90" height="55" rx="8" fill="#13111c" stroke="#ef4444" stroke-width="1"/>
+  <text x="380" y="150" fill="#ef4444" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">HARD</text>
+  <text x="380" y="172" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle">1</text>
+</svg>
