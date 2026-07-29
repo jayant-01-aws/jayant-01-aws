@@ -987,9 +987,20 @@ jayant-01-aws/                          <- must equal your GitHub username
 ---
 ## 🟢 GeeksforGeeks Profile
 
+## 🟢 GeeksforGeeks Profile
+
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/jayantawasthi18" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayantawasthi18&theme=dark" alt="Coding Streak" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-jayantawasthi18-2980b9?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/jayantawasthi18" target="_blank">
+    <img src="https://img.shields.io/badge/Coding%20Score-385-2980b9?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Coding Score" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/jayantawasthi18" target="_blank">
+    <img src="https://img.shields.io/badge/Problems%20Solved-110%2B-27ae60?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Problems Solved" />
   </a>
 </p>
 
