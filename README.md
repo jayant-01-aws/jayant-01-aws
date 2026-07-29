@@ -323,10 +323,10 @@ const jayant = {
 
 <!-- Additional Tools & Platforms (Matching SVG Icons) -->
 <p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" height="40" width="40" alt="Word" style="margin: 4px;" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" width="40" alt="Excel" style="margin: 4px;" />
-  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/D24726" height="40" width="40" alt="PowerPoint" style="margin: 4px;" />
-  <img src="https://cdn.simpleicons.org/microsoftteams/6264A7" height="40" width="40" alt="MS Teams" style="margin: 4px;" />
+  <!-- <img src="https://cdn.simpleicons.org/microsoftword/2B579A" height="40" width="40" alt="Word" style="margin: 4px;" /> -->
+  <!-- <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" width="40" alt="Excel" style="margin: 4px;" /> -->
+  <!-- <img src="https://cdn.simpleicons.org/microsoftpowerpoint/D24726" height="40" width="40" alt="PowerPoint" style="margin: 4px;" /> -->
+  <!-- <img src="https://cdn.simpleicons.org/microsoftteams/6264A7" height="40" width="40" alt="MS Teams" style="margin: 4px;" /> -->
   <img src="https://cdn.simpleicons.org/coreldraw/000000" height="40" width="40" alt="CorelDRAW" style="margin: 4px;" />
   <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" width="40" alt="Fiverr" style="margin: 4px;" />
   <img src="https://cdn.simpleicons.org/behance/1769FF" height="40" width="40" alt="Behance" style="margin: 4px;" />
