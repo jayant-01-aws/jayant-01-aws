@@ -829,20 +829,13 @@ C/C++/C#/SQL ████░░░░░░░░░░░░░░░░   10.0
 ---
 ## ✨ Random Dev Quote
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td bgcolor="#161b22" style="padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-        <p align="left" style="color: #e6edf3; font-style: italic; font-size: 16px;">
-          “The tranquility that comes when you stop caring what they say. Or think, or do. Only what you do.”
-        </p>
-        <p align="right" style="color: #8b949e; font-weight: bold; letter-spacing: 1px;">
-          - MARCUS AURELIUS
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+## ✨ Random Dev Quote
+
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20tranquility%20that%20comes%20when%20you%20stop%20caring%20what%20they%20say.%20Or%20think,%20or%20do.%20Only%20what%20you%20do.&author=MARCUS%20AURELIUS" width="100%" />
+  </a>
+</p>
 
 ## ❓ FAQ
 
