@@ -11,19 +11,19 @@
 
   <!-- Top Stats Row -->
   <text x="25" y="83" fill="#e2e8f0" font-family="sans-serif" font-size="13" font-weight="600">Coding Score:</text>
-  <text x="120" y="83" fill="#c084fc" font-family="sans-serif" font-size="15" font-weight="bold">91</text>
+  <text x="120" y="83" fill="#c084fc" font-family="sans-serif" font-size="15" font-weight="bold">146</text> <!-- Updated from 91 to 146 -->
 
   <text x="175" y="83" fill="#e2e8f0" font-family="sans-serif" font-size="13" font-weight="600">Total Solved:</text>
-  <text x="268" y="83" fill="#4ade80" font-family="sans-serif" font-size="15" font-weight="bold">32</text>
+  <text x="268" y="83" fill="#4ade80" font-family="sans-serif" font-size="15" font-weight="bold">50</text> <!-- Updated from 32 to 50 -->
 
   <text x="315" y="83" fill="#e2e8f0" font-family="sans-serif" font-size="13" font-weight="600">Submissions:</text>
-  <text x="425" y="83" fill="#60a5fa" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="end">28</text>
+  <text x="425" y="83" fill="#60a5fa" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="end">47</text> <!-- Updated from 28 to 47 -->
 
   <!-- Divider for Difficulty -->
   <line x1="25" y1="100" x2="425" y2="100" stroke="#382a4a" stroke-width="1" stroke-dasharray="3 3"/>
   <text x="25" y="118" fill="#94a3b8" font-family="sans-serif" font-size="11" font-weight="600">DIFFICULTY BREAKDOWN</text>
 
-  <!-- Difficulty Badges -->
+  <!-- Difficulty Badges (Numbers kept as-is as they were not explicitly changed) -->
   <!-- Basic -->
   <rect x="25" y="130" width="90" height="55" rx="8" fill="#13111c" stroke="#22c55e" stroke-width="1"/>
   <text x="70" y="150" fill="#22c55e" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">BASIC</text>
