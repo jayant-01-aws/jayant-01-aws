@@ -1033,7 +1033,7 @@ jayant-01-aws/                          <- must equal your GitHub username
 
 <br>
 
-### 🏆 GEEKSFORGEEKS PROFILE
+### 🏆 GeeksforGeeks Profile
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/jayantawasthi18" target="_blank">
