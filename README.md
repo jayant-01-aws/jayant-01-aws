@@ -827,13 +827,12 @@ C/C++/C#/SQL ████░░░░░░░░░░░░░░░░   10.0
 <br>
 
 ---
-## ✨ Random Dev Quote
 
 ## ✨ Random Dev Quote
 
 <p align="center">
   <a href="https://github.com">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20tranquility%20that%20comes%20when%20you%20stop%20caring%20what%20they%20say.%20Or%20think,%20or%20do.%20Only%20what%20you%20do.&author=MARCUS%20AURELIUS" width="100%" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20tranquility%20that%20comes%20when%20you%20stop%20caring%20what%20they%20say.%20Or%20think,%20or%20do.%20Only%20what%20you%20do.&author=MARCUS%20AURELIUS" width="80%" />
   </a>
 </p>
 
