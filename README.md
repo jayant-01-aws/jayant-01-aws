@@ -457,7 +457,9 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 
 **Stack:** `React.js` `Three.js` `React Three Fiber (R3F)` `GSAP` `Framer Motion` `Tailwind CSS` `Vite`
 
-```text
+
+<img src="architecture.svg" alt="Browser Architecture" width="100%">
+<!--```text
 ┌──────────────────────────────────────────────┐
 │   Browser                                     │
 │   ┌──────────────┐   ┌─────────────────────┐  │
@@ -470,7 +472,7 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 │   │ Triggers     │   │ Physics Engine      │  │
 │   └──────────────┘   └─────────────────────┘  │
 └──────────────────────────────────────────────┘
-```
+```-->
 
 - **Key Achievement:** Engineered a high-performance immersive 3D environment featuring real-time WebGL rendering
 - **Core Features:** Integrated custom 3D models (Spline), scroll-triggered animations (GSAP), and an elastic cursor physics engine
@@ -485,6 +487,9 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 
 **Stack:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
+<img src="Restaurant.svg" alt="Browser Architecture" width="100%">
+
+<!---
 ```text
 Customer ──▶ Booking Form ──▶ PHP Controller ──▶ MySQL (reservations)
                                      │
@@ -492,7 +497,7 @@ Customer ──▶ Booking Form ──▶ PHP Controller ──▶ MySQL (reserv
                             Admin Panel (live)
                      approvals · cancellations · availability
 ```
-
+--->
 - Developed a dynamic reservation system using PHP and MySQL to automate table bookings and reduce manual overhead
 - Engineered a custom Admin Panel for real-time management of approvals, cancellations, and table availability
 - Designed a secure database architecture to handle CRUD operations and ensure data consistency during peak hours
@@ -507,6 +512,9 @@ Customer ──▶ Booking Form ──▶ PHP Controller ──▶ MySQL (reserv
 
 **Stack:** `Python (Django)` `OpenCV` `Google Gemini 1.5 Flash API` `PyTesseract` `NumPy` `Pillow (PIL)` `SQLite/PostgreSQL`
 
+<img src="OCR.svg" alt="Browser Architecture" width="100%">
+
+<!--
 ```text
 Handwritten Doc
       │
@@ -531,7 +539,7 @@ Handwritten Doc
                        Django Middleware Logging
                      (latency + availability monitor)
 ```
-
+--->
 - **Hybrid AI Engine:** Orchestrated **Google Gemini 1.5 Flash** and **Tesseract OCR** to extract high-fidelity text from unstructured handwritten documents
 - **Vision Pipeline:** Engineered in **OpenCV** using **Adaptive CLAHE** and **Bilateral Filtering** to eliminate environmental noise and normalize document lighting
 - **Heuristic Ranking Algorithm:** Evaluates multiple **Page Segmentation Modes (PSM)** and automatically selects the output with the highest lexical density
