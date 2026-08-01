@@ -408,7 +408,7 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 | **Focus** | End-to-end Java full-stack application development |
 | **Highlights** | Agile methodology, scalable DB schema design, API integration |
 -->
-<img src="JAVA.svg" alt="Browser Architecture" width="100%">
+<img src="JAVA.svg" alt="Browser Architecture" width="50%">
 
 - Executing a 6-month Java Full Stack program, focusing on end-to-end application development
 - Developing web applications using Java backend technologies and modern front-end frameworks
@@ -423,7 +423,7 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 ### 🔹 Back-end Executive (Intern)
 **Express-E-Connect Pvt Ltd** &nbsp;|&nbsp; May 2024 – Oct 2024 *(6 Months)*
 
-<img src="Express.svg" alt="Browser Architecture" width="100%">
+<img src="Express.svg" alt="Browser Architecture" width="50%">
 <!--
 | | |
 |---|---|
@@ -440,7 +440,7 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 
 ### 🔹 Web Developer Intern
 **MurphTech Software Solutions** &nbsp;|&nbsp; Nov 2023 – April 2024 *(6 Months)*
-<img src="PHP.svg" alt="Browser Architecture" width="100%">
+<img src="PHP.svg" alt="Browser Architecture" width="50%">
 <!--
 | | |
 |---|---|
