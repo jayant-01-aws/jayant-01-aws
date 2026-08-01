@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 220" width="100%" height="100%">
+  <defs>
+    <!-- Dark Tech Canvas Background -->
+    <linearGradient id="cardBg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#070A12" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradient -->
+    <linearGradient id="borderGlow3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34D399" />
+      <stop offset="50%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+
+    <!-- Subtle Glow Filter -->
+    <filter id="neonSoft3" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&amp;family=Plus+Jakarta+Sans:wght@500;700;800&amp;display=swap');
+
+      text { font-family: 'Plus Jakarta Sans', sans-serif; }
+      .code-text { font-family: 'Fira Code', monospace; }
+
+      .dot-glow {
+        animation: pulseDot 2s ease-in-out infinite alternate;
+      }
+      @keyframes pulseDot {
+        0% { opacity: 0.6; transform: scale(0.9); }
+        100% { opacity: 1; transform: scale(1.1); }
+      }
+    </style>
+  </defs>
+
+  <!-- Outer Card Container with Glow Border -->
+  <rect x="10" y="10" width="520" height="200" rx="16" fill="url(#cardBg3)" stroke="url(#borderGlow3)" stroke-width="2" filter="url(#neonSoft3)"/>
+
+  <!-- Tech Grid Overlay -->
+  <g opacity="0.05">
+    <path d="M 10 50 H 530 M 10 100 H 530 M 10 150 H 530" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M 140 10 V 210 M 280 10 V 210 M 420 10 V 210" stroke="#F8FAFC" stroke-width="1"/>
+  </g>
+
+  <!-- Title Header Bar -->
+  <g transform="translate(25, 25)">
+    <!-- Colorful Dots -->
+    <circle cx="10" cy="12" r="5" fill="#F43F5E" class="dot-glow" style="animation-delay: 0s;"/>
+    <circle cx="26" cy="12" r="5" fill="#FBBF24" class="dot-glow" style="animation-delay: 0.3s;"/>
+    <circle cx="42" cy="12" r="5" fill="#10B981" class="dot-glow" style="animation-delay: 0.6s;"/>
+
+    <!-- Header Label -->
+    <text x="60" y="16" font-size="14" font-weight="800" fill="#F8FAFC" letter-spacing="0.5">WEB APP HIGHLIGHTS</text>
+    <line x1="0" y1="28" x2="490" y2="28" stroke="#334155" stroke-width="1"/>
+  </g>
+
+  <!-- Content Section -->
+  <!-- Row 1: Focus -->
+  <g transform="translate(25, 75)">
+    <!-- Icon/Badge -->
+    <rect x="0" y="0" width="85" height="26" rx="6" fill="#34D399" fill-opacity="0.15" stroke="#34D399" stroke-width="1"/>
+    <text x="42.5" y="17" font-size="12" font-weight="700" fill="#34D399" text-anchor="middle">Focus</text>
+    
+    <!-- Detail Text -->
+    <text x="100" y="17" font-size="13" font-weight="600" fill="#E2E8F0">Dynamic web application development</text>
+  </g>
+
+  <!-- Row 2: Highlights -->
+  <g transform="translate(25, 125)">
+    <!-- Icon/Badge -->
+    <rect x="0" y="0" width="85" height="26" rx="6" fill="#38BDF8" fill-opacity="0.15" stroke="#38BDF8" stroke-width="1"/>
+    <text x="42.5" y="17" font-size="12" font-weight="700" fill="#38BDF8" text-anchor="middle">Highlights</text>
+    
+    <!-- Detail Text Tags -->
+    <g transform="translate(100, 0)">
+      <!-- Tag 1 -->
+      <rect x="0" y="0" width="110" height="26" rx="6" fill="#1E293B" stroke="#475569" stroke-width="1"/>
+      <text x="55" y="17" font-size="11" class="code-text" fill="#C084FC" text-anchor="middle">Full SDLC</text>
+
+      <!-- Tag 2 -->
+      <rect x="118" y="0" width="145" height="26" rx="6" fill="#1E293B" stroke="#475569" stroke-width="1"/>
+      <text x="190.5" y="17" font-size="10.5" class="code-text" fill="#FBBF24" text-anchor="middle">Cross-Browser Opt.</text>
+
+      <!-- Tag 3 -->
+      <rect x="271" y="0" width="120" height="26" rx="6" fill="#1E293B" stroke="#475569" stroke-width="1"/>
+      <text x="331" y="17" font-size="10.5" class="code-text" fill="#34D399" text-anchor="middle">Founder Collab</text>
+    </g>
+  </g>
+
+</svg>
