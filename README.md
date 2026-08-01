@@ -468,7 +468,10 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 
 ### 🔹 Web Developer Intern
 **MurphTech Software Solutions** &nbsp;|&nbsp; Nov 2023 – April 2024 *(6 Months)*
+
+
 <img src="PHP.svg" alt="Browser Architecture" width="55%">
+
 <!--
 | | |
 |---|---|
