@@ -458,7 +458,7 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 **Stack:** `React.js` `Three.js` `React Three Fiber (R3F)` `GSAP` `Framer Motion` `Tailwind CSS` `Vite`
 
 
-<img src="architecture.svg" alt="Browser Architecture" width="100%">
+<img src="Restaurant.svg" alt="Browser Architecture" width="100%">
 <!--```text
 ┌──────────────────────────────────────────────┐
 │   Browser                                     │
@@ -487,7 +487,7 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 
 **Stack:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
-<img src="Restaurant.svg" alt="Browser Architecture" width="100%">
+<img src="architecture.svg" alt="Browser Architecture" width="100%">
 
 <!---
 ```text
