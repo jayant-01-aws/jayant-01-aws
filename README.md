@@ -402,10 +402,13 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 ### 🔹 Java Full Stack Developer (Virtual Intern)
 **EduSkills Academy** &nbsp;|&nbsp; Oct 2025 – Dec 2025 *(3 Months)*
 
+<!--
 | | |
 |---|---|
 | **Focus** | End-to-end Java full-stack application development |
 | **Highlights** | Agile methodology, scalable DB schema design, API integration |
+-->
+<img src="JAVA.svg" alt="Browser Architecture" width="100%">
 
 - Executing a 6-month Java Full Stack program, focusing on end-to-end application development
 - Developing web applications using Java backend technologies and modern front-end frameworks
@@ -420,10 +423,12 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 ### 🔹 Back-end Executive (Intern)
 **Express-E-Connect Pvt Ltd** &nbsp;|&nbsp; May 2024 – Oct 2024 *(6 Months)*
 
+<img src="Express.svg" alt="Browser Architecture" width="100%">
+<!--
 | | |
 |---|---|
 | **Focus** | PHP/MySQL backend for a restaurant reservation system |
-| **Highlights** | Custom admin panel, CRUD architecture, PR-department coordination |
+| **Highlights** | Custom admin panel, CRUD architecture, PR-department coordination |-->
 
 - Developed a dynamic reservation system using **PHP** and **MySQL** to automate table bookings and reduce manual overhead
 - Engineered a custom **Admin Panel** for real-time management of approvals, cancellations, and table availability
@@ -435,11 +440,12 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 
 ### 🔹 Web Developer Intern
 **MurphTech Software Solutions** &nbsp;|&nbsp; Nov 2023 – April 2024 *(6 Months)*
-
+<img src="PHP.svg" alt="Browser Architecture" width="100%">
+<!--
 | | |
 |---|---|
 | **Focus** | Dynamic web application development |
-| **Highlights** | Full SDLC exposure, cross-browser optimization, direct founder collaboration |
+| **Highlights** | Full SDLC exposure, cross-browser optimization, direct founder collaboration |-->
 
 - Developed dynamic web applications within the Development department to improve site functionality and interactivity
 - Collaborated directly under the Founder/CEO to translate business requirements into functional code
