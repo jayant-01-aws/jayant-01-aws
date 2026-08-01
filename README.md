@@ -409,7 +409,7 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 | **Highlights** | Agile methodology, scalable DB schema design, API integration |
 -->
 <img src="JAVA.svg" alt="Browser Architecture" width="55%">
-
+<!--
 - Executing a 6-month Java Full Stack program, focusing on end-to-end application development
 - Developing web applications using Java backend technologies and modern front-end frameworks
 - Applying industry-standard software practices in a virtual environment to meet project milestones
@@ -417,6 +417,20 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 - Architecting and optimizing scalable database schemas using SQL to support high-concurrency data storage and retrieval
 - Applying industry-standard Agile methodologies and software development best practices within a virtual collaborative environment to meet project deadlines
 - Implementing robust API integrations and server-side logic to enhance the functionality and performance of web-based solutions
+-->
+<div style="font-family: 'Courier New', monospace; line-height: 1.6;">
+
+  <p><strong>🚀 Key Experience & Highlights</strong></p>
+
+  <ul>
+    <li><b>Full-Stack Program:</b> Executing a comprehensive 6-month Java Full Stack program focused on end-to-end application development.</li>
+    <li><b>Modern Web Tech:</b> Developing scalable web applications using Java backend services integrated with modern front-end frameworks.</li>
+    <li><b>Database Optimization:</b> Architecting and tuning SQL schemas to support high-concurrency data storage and efficient retrieval.</li>
+    <li><b>API & Backend Engineering:</b> Implementing robust server-side logic and RESTful API integrations for high-performance applications.</li>
+    <li><b>Agile Methodologies:</b> Applying industry-standard Agile workflows and best practices in a virtual collaborative setup to achieve project milestones.</li>
+  </ul>
+
+</div>
 
 <br>
 
@@ -429,12 +443,26 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 |---|---|
 | **Focus** | PHP/MySQL backend for a restaurant reservation system |
 | **Highlights** | Custom admin panel, CRUD architecture, PR-department coordination |-->
-
+<!--
 - Developed a dynamic reservation system using **PHP** and **MySQL** to automate table bookings and reduce manual overhead
 - Engineered a custom **Admin Panel** for real-time management of approvals, cancellations, and table availability
 - Designed a secure database architecture to handle CRUD operations and ensure data consistency during peak hours
 - Managed backend operations within the Public Relations department, ensuring efficient data handling and client information management
 - Collaborated under the Project Head to maintain accurate records and facilitate smooth communication between the technical and PR teams
+-->
+<div style="font-family: 'Segoe UI', Tahoma, sans-serif; line-height: 1.6;">
+
+  <p><strong>🍷 Key Contributions & Achievements</strong></p>
+
+  <ul>
+    <li><b>Dynamic Booking Platform:</b> Developed an automated table reservation system using <code>PHP</code> & <code>MySQL</code> to minimize manual overhead.</li>
+    <li><b>Admin Control Panel:</b> Built a custom dashboard for real-time tracking, approvals, cancellations, and live table availability.</li>
+    <li><b>Secure Database Design:</b> Architected a high-performance database schema managing complex CRUD operations and peak-hour data consistency.</li>
+    <li><b>PR Operations & Data Flow:</b> Managed backend data handling within the PR team to ensure accurate record-keeping and secure client management.</li>
+    <li><b>Cross-Team Leadership:</b> Collaborated under the Project Head to bridge technical execution with PR department communication.</li>
+  </ul>
+
+</div>
 
 <br>
 
@@ -446,12 +474,26 @@ AngularJS / Haskell  ██████░░░░░░░░░░░░░�
 |---|---|
 | **Focus** | Dynamic web application development |
 | **Highlights** | Full SDLC exposure, cross-browser optimization, direct founder collaboration |-->
-
+<!--
 - Developed dynamic web applications within the Development department to improve site functionality and interactivity
 - Collaborated directly under the Founder/CEO to translate business requirements into functional code
 - Contributed to the full SDLC, including debugging and optimizing web components for high performance
 - Optimized front-end components for maximum speed and scalability, ensuring 100% compatibility across diverse mobile and desktop browsers
 - Maintained clean, documented code and utilized version control systems to ensure project continuity and team collaboration
+-->
+<div style="font-family: 'Consolas', 'Courier New', monospace; line-height: 1.6;">
+
+  <p><strong>🚀 Engineering & Leadership Contributions</strong></p>
+
+  <ul>
+    <li><b>Dynamic Web Apps:</b> Engineered interactive web features to upgrade site functionality and enhance overall user experience.</li>
+    <li><b>CEO & Founder Alignment:</b> Collaborated directly with executive leadership to convert business logic and requirements into high-performing code.</li>
+    <li><b>End-to-End SDLC:</b> Contributed across full development cycles, leading debugging efforts and optimizing core web components.</li>
+    <li><b>Cross-Platform Optimization:</b> Built highly responsive UI modules ensuring fast load speeds and 100% cross-browser compatibility.</li>
+    <li><b>Version Control & Clean Code:</b> Maintained strict code documentation standards and robust Git workflows for team scalability.</li>
+  </ul>
+
+</div>
 
 <br>
 
