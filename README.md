@@ -726,7 +726,9 @@ Handwritten Doc
 <div align="center">
 
 ![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=jayant-01-aws&theme=react-dark&bg_color=18091f&color=ff4fae&line=ff4fae&point=ffffff&area=true&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayant-01-aws&theme=react-dark&bg_color=18091f&color=ff4fae&line=ff4fae&point=ffffff&area=true&hide_border=true" alt="Jayant Awasthi Contribution Graph" width="95%" />
+</div>
 </div>
 
 ## 🐍 My Contribution Snake
