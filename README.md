@@ -108,7 +108,15 @@
 <a href="https://jayant-01-aws.github.io/Stellar-Portfolio" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-9b5cff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
-
+<a href="https://www.facebook.com/profile.php?id=100016447995262" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://www.geeksforgeeks.org/profile/jayantawasthi18?tab=activity" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+</a>
+<a href="https://www.behance.net/jayantawasthi" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+</a>
 <br><br>
 
 <!-- ═══════════════════════════ PROFILE VIEWS / STATUS (live services) ═══════════════════════════ -->
