@@ -93,7 +93,7 @@
 <a href="https://www.linkedin.com/in/jayant-awasthi-544745372/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:jayantawasthi18@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jayantawasthi18@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://twitter.com/krishna05703435" target="_blank">
