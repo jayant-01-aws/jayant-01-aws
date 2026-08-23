@@ -117,6 +117,9 @@
 <a href="https://www.behance.net/jayantawasthi" target="_blank">
   <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
 </a>
+<a href="https://github.com/jayant-01-aws" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 <br><br>
 
 <!-- ═══════════════════════════ PROFILE VIEWS / STATUS (live services) ═══════════════════════════ -->
