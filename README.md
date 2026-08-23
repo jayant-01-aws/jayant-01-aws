@@ -111,6 +111,9 @@
 <a href="https://www.facebook.com/profile.php?id=100016447995262" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
+<a href="https://www.threads.com/@_.jayant_.aws" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+</a>
 <a href="https://www.geeksforgeeks.org/profile/jayantawasthi18?tab=activity" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
 </a>
@@ -119,9 +122,6 @@
 </a>
 <a href="https://github.com/jayant-01-aws" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.threads.com/@_.jayant_.aws" target="_blank">
-  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
 </a>
 <br><br>
 
