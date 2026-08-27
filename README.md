@@ -1192,3 +1192,10 @@ This README's content (bios, project descriptions, resume-derived details) belon
 <div align="center">
 <sub>Last structured update: July 2026 · Maintained by Jayant Awasthi</sub>
 </div>
+## 🏆 CodeChef Profile
+
+<p align="center">
+  <a href="https://www.codechef.com/users/alert_trail_47">
+    <img src="https://img.shields.io/badge/CodeChef-alert__trail__47-brown?style=for-the-badge&logo=codechef" />
+  </a>
+</p>
