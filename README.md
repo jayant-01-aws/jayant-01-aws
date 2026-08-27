@@ -1071,6 +1071,13 @@ jayant-01-aws/                          <- must equal your GitHub username
         └── workflows/
             └── github-snake.yml        <- nightly contribution-snake job
 ```
+### 🏆 CodeChef Profile
+
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-alert__trail__47-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/alert_trail_47)
+
+<br/>
+
+<img src="./codechef.svg" alt="CodeChef Badges" width="450" />
 
 ### Troubleshooting
 
@@ -1192,17 +1199,3 @@ This README's content (bios, project descriptions, resume-derived details) belon
 <div align="center">
 <sub>Last structured update: July 2026 · Maintained by Jayant Awasthi</sub>
 </div>
-
-## 🏆 CodeChef Profile
-
-## 🏆 CodeChef Profile
-
-<p align="center">
-  <a href="https://www.codechef.com/users/alert_trail_47">
-    <img src="https://codechef-readme-stats.onrender.com/alert_trail_47?v=1" alt="CodeChef Stats" />
-  </a>
-</p>
-
-## 🏆 CodeChef Profile
-
-[![CodeChef Stats](https://codechef-readme-stats.onrender.com/alert_trail_47?v=1)](https://www.codechef.com/users/alert_trail_47)
