@@ -1077,7 +1077,7 @@ jayant-01-aws/                          <- must equal your GitHub username
 
 <br/>
 
-<img src="./codechef.svg" alt="CodeChef Badges" width="450" />
+<img src="codechef.svg" alt="CodeChef Badges" width="450" />
 
 ### Troubleshooting
 
