@@ -1195,8 +1195,14 @@ This README's content (bios, project descriptions, resume-derived details) belon
 
 ## 🏆 CodeChef Profile
 
+## 🏆 CodeChef Profile
+
 <p align="center">
   <a href="https://www.codechef.com/users/alert_trail_47">
-    <img src="https://cp-logo.vercel.app/codechef/alert_trail_47" />
+    <img src="https://codechef-readme-stats.onrender.com/alert_trail_47?v=1" alt="CodeChef Stats" />
   </a>
 </p>
+
+## 🏆 CodeChef Profile
+
+[![CodeChef Stats](https://codechef-readme-stats.onrender.com/alert_trail_47?v=1)](https://www.codechef.com/users/alert_trail_47)
