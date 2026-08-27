@@ -1071,13 +1071,15 @@ jayant-01-aws/                          <- must equal your GitHub username
         └── workflows/
             └── github-snake.yml        <- nightly contribution-snake job
 ```
-### 🏆 CodeChef Profile
 
-[![CodeChef Profile](https://img.shields.io/badge/CodeChef-alert__trail__47-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/alert_trail_47)
 
 <br/>
 
+### 🏆 CodeChef Profile
+
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-alert__trail__47-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/alert_trail_47)
 <img src="codechef.svg" alt="CodeChef Badges" width="450" />
+
 
 ### Troubleshooting
 
