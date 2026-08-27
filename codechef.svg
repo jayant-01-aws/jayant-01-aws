@@ -1,0 +1,60 @@
+<svg width="450" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define colors & gradients -->
+  <defs>
+    <!-- Bronze Gradient -->
+    <linearGradient id="bronzeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#CD7F32;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8C4B11;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Silver Gradient -->
+    <linearGradient id="silverGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#E0E0E0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8E8E93;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- ================= BRONZE BADGE ================= -->
+  <g id="bronze-badge">
+    <!-- Bronze badge shape -->
+    <path d="M 40 10 
+             L 190 10 
+             Q 200 10 200 20 
+             L 200 180 
+             Q 200 190 190 190 
+             L 40 190 
+             Q 30 190 30 180 
+             L 30 20 
+             Q 30 10 40 10 
+             Z" fill="url(#bronzeGradient)" stroke="#8C4B11" stroke-width="3" />
+
+    <!-- Text elements -->
+    <text x="115" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">Problem Solver</text>
+    <text x="115" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">Bronze Badge</text>
+    <line x1="50" y1="115" x2="180" y2="115" stroke="white" stroke-width="1" />
+    <text x="115" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">50 Problems Solved</text>
+    <text x="115" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">CodeChef Level: 3★</text>
+  </g>
+
+  <!-- ================= SILVER BADGE ================= -->
+  <g id="silver-badge" transform="translate(210, 0)">
+    <!-- Silver badge shape (Same size as Bronze) -->
+    <path d="M 40 10 
+             L 190 10 
+             Q 200 10 200 20 
+             L 200 180 
+             Q 200 190 190 190 
+             L 40 190 
+             Q 30 190 30 180 
+             L 30 20 
+             Q 30 10 40 10 
+             Z" fill="url(#silverGradient)" stroke="#5A5A5E" stroke-width="3" />
+
+    <!-- Text elements -->
+    <text x="115" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1C1C1E">Problem Solver</text>
+    <text x="115" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1C1C1E">Silver Badge</text>
+    <line x1="50" y1="115" x2="180" y2="115" stroke="#1C1C1E" stroke-width="1" />
+    <text x="115" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1C1C1E">250 Problems Solved</text>
+    <text x="115" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1C1C1E">CodeChef Level: 4★</text>
+  </g>
+</svg>
