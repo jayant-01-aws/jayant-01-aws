@@ -1167,7 +1167,7 @@ jayant-01-aws/                          <- must equal your GitHub username
 ## 🏆 LeetCode Profile
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/be_a_Jayant_786?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/be_a_Jayant_786?theme=dark&ext=contest" />
 </p>
 
 ## 🙏 Acknowledgements
