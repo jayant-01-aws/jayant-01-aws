@@ -688,7 +688,7 @@ Handwritten Doc
 
 ## 3D Profile Stats & Isometric Contribution Calendar
 
-![GitHub Profile 3D Stats](./profile-3d-contrib/profile-night-view.svg)
+<img src="profile-night-view.svg" alt="3D GitHub Contribution Graph" width="100%">
 ---
 
 ## 🏢 Industry Job Simulations
