@@ -139,6 +139,12 @@
   <a href="https://www.duolingo.com/profile/Jayant_.AwS?via=share_profile_link" target="_blank">
   <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo">
 </a>
+  <a href="https://www.youtube.com/@AxiomNexus3D" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+  <a href="https://m.starmakerstudios.com/d/profileinfo?from_sid=13277387497&type=sing&color=FE3A6A&shareTime=1793869622&app_name=sm&userId=3096224743938812&cardKey=Profile&pid=Profire_share_B&showNavigation=true&showBar=1&share_type=copyLink" target="_blank">
+  <img src="https://img.shields.io/badge/StarMaker-FE3A6A?style=for-the-badge&logo=starmaker&logoColor=white" alt="StarMaker">
+</a>
 </a>
 <br><br>
 
