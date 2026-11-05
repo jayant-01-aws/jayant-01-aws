@@ -123,6 +123,23 @@
 <a href="https://github.com/jayant-01-aws" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+<a>
+  <a href="https://www.fiverr.com/jayant_457/definately-create-a-perfect-portfolio-website-for-you" target="_blank">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
+</a>
+  <a href="https://www.codechef.com/users/alert_trail_47" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+</a>
+  <a href="https://www.hackerrank.com/profile/jayantawasthi18" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+</a>
+  <a href="https://www.snapchat.com/add/jayant.aws" target="_blank">
+  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat">
+</a>
+  <a href="https://www.duolingo.com/profile/Jayant_.AwS?via=share_profile_link" target="_blank">
+  <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo">
+</a>
+</a>
 <br><br>
 
 <!-- ═══════════════════════════ PROFILE VIEWS / STATUS (live services) ═══════════════════════════ -->
