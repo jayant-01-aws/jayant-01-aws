@@ -90,6 +90,9 @@
 <br><br>
 
 <!-- ═══════════════════════════ SOCIAL / CONNECT BADGES ═══════════════════════════ -->
+
+## 📡 Interactive Broadcaster & Social Command Center
+
 <a href="https://www.linkedin.com/in/jayant-awasthi-544745372/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -158,6 +161,8 @@
 ![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20SDE%20Roles-2EC866?style=for-the-badge&labelColor=18091f)
 
 </div>
+
+## 📊 GitHub Analytics
 
 <a href="https://github.com/jayant-01-aws">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=jayant-01-aws&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" alt="GitHub Streak" />
