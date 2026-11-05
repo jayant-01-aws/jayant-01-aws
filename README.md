@@ -148,8 +148,8 @@
   <a href="https://m.starmakerstudios.com/d/profileinfo?from_sid=13277387497&type=sing&color=FE3A6A&shareTime=1793869622&app_name=sm&userId=3096224743938812&cardKey=Profile&pid=Profire_share_B&showNavigation=true&showBar=1&share_type=copyLink" target="_blank">
   <img src="https://img.shields.io/badge/StarMaker-FE3A6A?style=for-the-badge&logo=starmaker&logoColor=white" alt="StarMaker">
 </a>
-<a href="https://coddy.tech/profile">
-  <img src="profile-night-view.svg" alt="Coddy Profile Stats" width="100%">
+<a href="https://coddy.tech/profile" target="_blank">
+  <img src="https://img.shields.io/badge/Coddy-4F46E5?style=for-the-badge&logo=coddy&logoColor=white" alt="Coddy Profile">
 </a>
 </a>
 <br><br>
