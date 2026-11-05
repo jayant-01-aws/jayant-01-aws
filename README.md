@@ -686,6 +686,9 @@ Handwritten Doc
 
 <br>
 
+## 3D Profile Stats & Isometric Contribution Calendar
+
+![GitHub Profile 3D Stats](./profile-3d-contrib/profile-night-view.svg)
 ---
 
 ## 🏢 Industry Job Simulations
